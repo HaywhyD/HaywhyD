@@ -1,6 +1,6 @@
 
 
-# 👋 Hello World, I'm [Adejumo Oreoluwa]!
+# 👋 Hello World, I'm Adejumo Oreoluwa!
 
 🚀 **Flutter Engineer | Problem Solver | Tech Enthusiast**
 
